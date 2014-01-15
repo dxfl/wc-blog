@@ -2,7 +2,7 @@ wc-blog
 =======
 
 
-this is code from the blog of wavecrafters: blog.wavecrafters.com
+this is code from the blog of wavecrafters: <blog.wavecrafters.com>
 
 
 ## knearest.rb
